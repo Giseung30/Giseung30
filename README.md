@@ -2,13 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&text=HELLO&fontAlign=50&fontAlignY=45&desc=I'm%20Kim%20Giseung&descAlign=53&descAlignY=83"/><br><br>
   
   <b>🌈 Algorithm 🌈</b><br>
-  <a href="https://solved.ac/profile/abcde7804"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=abcde7804"/></a>
+  <a href="https://solved.ac/profile/abcde7804/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=abcde7804"/></a>
   
   <b>📚 Skills 📚</b><br>
   <img src="https://img.shields.io/badge/Unity-EEEEEE?style=flat-square&logo=Unity&logoColor=black"/>
   <img src="https://img.shields.io/badge/Oculus-1C1E20?style=flat-square&logo=Oculus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VR-000000?style=flat-square"/>
-  <img src="https://img.shields.io/badge/AR-000000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/VR-191970?style=flat-square"/>
+  <img src="https://img.shields.io/badge/AR-191970?style=flat-square"/>
   <img src="https://img.shields.io/badge/Shader-FF1493?style=flat-square"/><br>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
@@ -24,5 +24,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
   
   <b>📞 Contact 📞</b><br>
-  
+  <a href="https://giseung.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
+  <a href="https://www.instagram.com/giseung30/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+  <a href="mailto:giseung30@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </div>
