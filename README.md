@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&text=HELLO&fontAlign=50&fontAlignY=45&desc=I'm%20Kim%20Giseung&descAlign=53&descAlignY=83"/><br><br>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=100&text=HELLO&fontAlign=50&fontAlignY=45&desc=I'm%20Kim%20Giseung&descAlign=53&descAlignY=83&animation=scaleIn"/><br><br>
   
   <b>🌈 Algorithm 🌈</b><br>
   <a href="https://solved.ac/profile/abcde7804/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=abcde7804"/></a>
