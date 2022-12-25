@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/Autodesk-0696D7?style=flat-square&logo=Autodesk&logoColor=white"/><br>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giseung30&layout=compact&langs_count=6&hide="/><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giseung30&layout=compact&langs_count=6&hide=c"/><br>
   
   <b>📞 Contacts 📞</b><br>
   <a href="https://giseung.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
