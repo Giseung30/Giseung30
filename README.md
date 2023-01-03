@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=100&text=HELLO&fontAlign=50&fontAlignY=45&desc=I'm%20Kim%20Giseung&descAlign=53&descAlignY=83&animation=scaleIn"/><br><br>
-  
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=100&text=HELLO&fontAlign=50&fontAlignY=45&desc=I'm%20Kim%20Giseung&descAlign=53&descAlignY=83&animation=scaleIn"/>
+
   <h3>🌈 Algorithm 🌈</h3>
   <a href="https://solved.ac/profile/abcde7804/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=abcde7804"/></a>
-  
+
   <h3>📚 Skills 📚</h3>
   <img src="https://img.shields.io/badge/Unity-EEEEEE?style=flat-square&logo=Unity&logoColor=black"/>
   <img src="https://img.shields.io/badge/Oculus-1C1E20?style=flat-square&logo=Oculus&logoColor=white"/>
@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giseung30&layout=compact&langs_count=6&hide=scss,glsl,hlsl,objective-c%2B%2B,asp.net"/><br>
-  
+
   <h3>📞 Contacts 📞</h3>
   <a href="https://giseung.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
   <a href="https://www.instagram.com/giseung30/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
