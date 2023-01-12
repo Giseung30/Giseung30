@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white"/><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giseung30&count_private=true&layout=compact&langs_count=6&hide=scss,glsl,hlsl,objective-c%2B%2B,asp.net"/><br>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=giseung30&count_private=true&layout=compact&langs_count=6&hide=scss,glsl,hlsl,objective-c%2B%2B,asp.net"/><br>
   
   <h3>🛠 Tools 🛠</h3>
   <img src="https://img.shields.io/badge/Oculus-1C1E20?style=flat&logo=Oculus&logoColor=white"/>
