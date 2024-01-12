@@ -2,8 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=100&text=HELLO&fontAlign=17&fontAlignY=59&desc=I'm%20Kim%20Giseung&descAlign=40&descAlignY=70&animation=scaleIn"/>
 
   # 🌈 It's Me
-  <a href="https://solved.ac/profile/abcde7804/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=abcde7804"/></a> &nbsp; <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=giseung30&count_private=true&layout=compact&langs_count=8&hide=scss,glsl,hlsl,objective-c%2B%2B,objective-c,asp.net,cmake,shell,smalltalk"/>
-
+  <a href="https://solved.ac/profile/abcde7804/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=abcde7804"/></a> &nbsp; <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=giseung30&count_private=true&layout=compact&langs_count=6&hide=scss,glsl,hlsl,objective-c%2B%2B,objective-c,asp.net,cmake,shell,smalltalk"/>
 
   ### 🪄 Skill
   <img src="https://img.shields.io/badge/Unity-EEEEEE?style=flat&logo=Unity&logoColor=black"/>
